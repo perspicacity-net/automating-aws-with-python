@@ -1,14 +1,18 @@
 [[source]]
-name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
-
-[dev-packages]
-ipython = "*"
+name = "pypi"
 
 [packages]
 boto3 = "*"
 click = "*"
+
+[dev-packages]
+ipython = "*"
+pycodestyle = "*"
+pydocstyle = "*"
+pylint = "*"
+
 
 [requires]
 python_version = "3.8"
