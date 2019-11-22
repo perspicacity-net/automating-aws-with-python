@@ -13,3 +13,5 @@ Webotron currently has the following features:
 - List contents of a bucket
 - Create and setup bucket
 - Upload and sync directory tree
+- Prompt for AWS profile
+- Print website url
