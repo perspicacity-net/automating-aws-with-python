@@ -15,3 +15,4 @@ Webotron currently has the following features:
 - Upload and sync directory tree
 - Prompt for AWS profile
 - Print website url
+= Sync only updated files
