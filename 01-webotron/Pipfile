@@ -12,6 +12,7 @@ ipython = "*"
 pycodestyle = "*"
 pydocstyle = "*"
 pylint = "*"
+pyflakes = "*"
 
 
 [requires]
