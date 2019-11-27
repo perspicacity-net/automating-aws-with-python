@@ -16,3 +16,4 @@ Webotron currently has the following features:
 - Prompt for AWS profile
 - Print website url
 = Sync only updated files
+- Configure route 52 domain
