@@ -121,7 +121,7 @@
                 "sha256:ed7ebe1cba899c1c3ccad6f7f1c2d2369464cc77dba8eebc65e2043e19cda995"
             ],
             "index": "pypi",
-            "version": "==7.9.0"
+            "version": "==7.16.3"
         },
         "ipython-genutils": {
             "hashes": [
